@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Printf("lzanin/fullcycle")
+	fmt.Printf("Full Cycle Rocks!!")
 }
